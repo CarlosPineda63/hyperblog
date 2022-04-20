@@ -21,7 +21,7 @@ body
 }
 #cabecera #logo
 {
-    width: 20px;
+    width: 40px;
     vertical-align: middle;
 }
 #cabecera #tagline
@@ -38,7 +38,6 @@ body
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
-    text-align: center;
     font-size: 30px;
 }
 
