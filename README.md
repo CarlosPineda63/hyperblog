@@ -10,3 +10,4 @@ Un blog increíble para el curso de Git y Github de Platzi
 * Las personalidades múltiples de Carlitos
 * Creado por el increíble Platzi team
 * Incluye ejemplos en Windowx, Linux y Mac
+* Disponible para todas las edades
